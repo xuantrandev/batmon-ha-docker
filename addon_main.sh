@@ -1,6 +1,6 @@
 #!/usr/bin/with-contenv bashio
 
-. /app/venv/bin/activate
+# . /app/venv/bin/activate
 
 python install_bleak.py
 
